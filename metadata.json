@@ -1,6 +1,6 @@
 {
-  "description": "Replce Activities text with username.",
-  "name": "Replce Activities text with username",
+  "description": "Replace Activities text with username.",
+  "name": "Replace Activities text with username",
   "url": "https://github.com/desertstsung/username-to-activities",
   "shell-version": [
     "3.36",
