@@ -1,0 +1,15 @@
+{
+  "description": "Replce Activities text with username.",
+  "name": "Replce Activities text with username",
+  "url": "https://github.com/desertstsung/username-to-activities",
+  "shell-version": [
+    "3.36",
+    "3.38",
+    "40",
+    "41",
+    "42"
+  ],
+  "uuid": "username-to-activities@deserts",
+  "version": "1",
+  "original-author": "pratap@fastmail.fm"
+}
