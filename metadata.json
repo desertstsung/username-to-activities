@@ -1,7 +1,7 @@
 {
-  "description": "Replace Activities text with username.",
+  "description": "Replace Activities text with username.\nThis is a fork of Replace Activities Text by pratap@fastmail.fm",
   "name": "Replace Activities text with username",
-  "url": "https://github.com/desertstsung/username-to-activities",
+  "original-author": "pratap@fastmail.fm",
   "shell-version": [
     "3.36",
     "3.38",
@@ -9,7 +9,7 @@
     "41",
     "42"
   ],
+  "url": "https://github.com/desertstsung/username-to-activities",
   "uuid": "username-to-activities@deserts",
-  "version": "1",
-  "original-author": "pratap@fastmail.fm"
+  "version": 1
 }
